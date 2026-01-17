@@ -4,16 +4,38 @@
 This project analyzes Zomato restaurant data to uncover insights about restaurant ratings, pricing, online delivery trends, and location-based performance. The objective is to understand key factors that influence restaurant success on Zomato.
 
 ## Dataset
-The dataset contains information about restaurants listed on Zomato including:
 
-- Restaurant name and location
+The project uses the original Zomato restaurant dataset stored in the raw data directory.
+
+*Dataset Location:*
+data/raw/zomato_raw.xlsx
+
+*Description:*
+The dataset contains detailed information about restaurants listed on Zomato, including:
+
+- Restaurant name and city
 - Cuisines offered
 - Average cost for two
 - Online delivery availability
 - Ratings and votes
-- City-wise distribution
 
-File used: zomato_raw.xlsx
+The raw dataset was cleaned and transformed before analysis.
+## Data Pipeline
+
+The project follows a structured data analysis pipeline:
+
+1. Raw data is stored in data/raw/
+2. Data cleaning and preprocessing is performed in Excel
+3. Cleaned datasets are stored in data/processed/
+4. Analysis and dashboards are generated from processed data
+
+This structure ensures reproducibility and professional data management practices.
+## Tools & Technologies
+
+- Microsoft Excel
+  - Data Cleaning and Preprocessing
+  - Pivot Tables and Pivot Charts
+  - Dashboard Design and Visualization
 
 ## Objectives
 
