@@ -10,13 +10,6 @@ Food-tech platforms like Zomato generate massive volumes of data daily. Converti
 
 This project simulates a real-world business intelligence scenario where raw operational data is transformed into actionable insights for decision-making.
 
-## Technologies Used
-
-* Microsoft Excel  
-  - Data Cleaning and Preprocessing  
-  - Pivot Tables and Pivot Charts  
-  - Interactive Dashboard Design  
-  - Exploratory Data Analysis (EDA)
 
 ## Dataset
 
