@@ -1,7 +1,22 @@
 # Zomato Restaurant Data Analysis
 
 ## Project Overview
-This project analyzes Zomato restaurant data to uncover insights about restaurant ratings, pricing, online delivery trends, and location-based performance. The objective is to understand key factors that influence restaurant success on Zomato.
+This project performs an end-to-end exploratory data analysis on Zomato restaurant data to uncover key business insights related to customer preferences, restaurant performance, pricing strategies, and online delivery trends.
+
+The objective is to identify data-driven patterns that influence restaurant success on food delivery platforms and to demonstrate a complete real-world data analytics workflow — from raw data ingestion to insight generation and reporting.
+## Why This Project Matters
+
+Food-tech platforms like Zomato generate massive volumes of data daily. Converting this raw data into meaningful insights is critical for improving customer experience, optimizing restaurant strategies, and increasing platform revenue.
+
+This project simulates a real-world business intelligence scenario where raw operational data is transformed into actionable insights for decision-making.
+
+## Technologies Used
+
+* Microsoft Excel  
+  - Data Cleaning and Preprocessing  
+  - Pivot Tables and Pivot Charts  
+  - Interactive Dashboard Design  
+  - Exploratory Data Analysis (EDA)
 
 ## Dataset
 
@@ -30,12 +45,6 @@ The project follows a structured data analysis pipeline:
 4. Analysis and dashboards are generated from processed data
 
 This structure ensures reproducibility and professional data management practices.
-## Tools & Technologies
-
-- Microsoft Excel
-  - Data Cleaning and Preprocessing
-  - Pivot Tables and Pivot Charts
-  - Dashboard Design and Visualization
 
 ## Project Structure
 
