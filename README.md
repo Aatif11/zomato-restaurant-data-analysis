@@ -37,6 +37,22 @@ This structure ensures reproducibility and professional data management practice
   - Pivot Tables and Pivot Charts
   - Dashboard Design and Visualization
 
+## Project Structure
+
+The project follows a structured data analytics workflow:
+
+data/
+│
+├── raw/          # Original unprocessed Zomato dataset
+├── processed/    # Cleaned and transformed datasets
+│
+reports/           # Final dashboards and analysis reports
+│
+README.md           # Project documentation
+
+Data Flow:
+Raw Data → Data Cleaning & Processing → Analysis & Reports
+
 ## Objectives
 
 - Analyze distribution of restaurant ratings
