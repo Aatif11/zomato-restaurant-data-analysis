@@ -13,7 +13,7 @@ The dataset contains information about restaurants listed on Zomato including:
 - Ratings and votes
 - City-wise distribution
 
-File used: Zomato_Project.xlsx
+File used: zomato_raw.xlsx
 
 ## Objectives
 
